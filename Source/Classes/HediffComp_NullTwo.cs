@@ -1,0 +1,12 @@
+﻿using Verse;
+
+namespace CrudeBionics
+{
+    /// <summary>
+    /// Does nothing. Just acts as a marker. To make the game stop complaining about identical HediffComp classes.
+    /// </summary>
+    public class HediffComp_NullTwo : HediffComp
+    {
+
+    }
+}

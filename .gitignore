@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 #visual studio
-Source/.vs/*.*
+Source/.vs*
+Source/obj*
