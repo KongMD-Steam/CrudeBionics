@@ -23,7 +23,6 @@
 *.lo
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -54,3 +53,4 @@ dkms.conf
 #visual studio
 Source/.vs*
 Source/obj*
+Assemblies/CrudeBionics.dll
