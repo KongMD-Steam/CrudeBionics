@@ -5,6 +5,9 @@
     <suggests>
         <li>1677616980</li> <!-- Bionic icons -->
     </suggests>
+    <loadAfter>
+        <li>QuestionableEthics</li>
+    </loadAfter>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/KongMD-Steam/CrudeBionics/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/KongMD-Steam/CrudeBionics/releases/latest</downloadUri>
