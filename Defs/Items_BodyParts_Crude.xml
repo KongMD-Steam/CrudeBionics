@@ -5,7 +5,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicEye</defName>
 		<label>crude bionic eye</label>
-		<description>An advanced but crude artificial eye. Is a bit better than a biological eye, but is uncomfortable. A lattice-dust healing system allows it to recover from damage.</description>
+		<description>This artificial eye is itchy and uncomfortable, but it functions better than a biological eye in every way. A lattice-dust healing system allows it to recover from damage.</description>
 		<techLevel>Industrial</techLevel>
 		<costList>
 			<Steel>20</Steel>
@@ -27,7 +27,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicArm</defName>
 		<label>crude bionic arm</label>
-		<description>An advanced but crude artificial arm. Noisy but strong, this arm works better than a biological arm in every way. A lattice-dust healing system allows it to recover from damage.</description>
+		<description>This artificial arm is noisy and uncomfortable, but it functions better than a biological arm in every way. A lattice-dust healing system allows it to recover from damage.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>30</Steel>
@@ -49,7 +49,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicLeg</defName>
 		<label>crude bionic leg</label>
-		<description>An advanced but crude artificial leg. Noisy but strong, this leg works better than a biological leg in every way. A lattice-dust healing system allows it to recover from damage.</description>
+		<description>This artificial leg is noisy and uncomfortable, but it functions better than a biological leg in every way. A lattice-dust healing system allows it to recover from damage.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>30</Steel>
@@ -71,7 +71,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicSpine</defName>
 		<label>crude bionic spine</label>
-		<description>An advanced but crude artificial spine. A bio-gel nerve bundle runs down an articulated steel core, surrounded by a lattice-dust healing system. It is better than a biological spine.</description>
+		<description>This artificial spine is noisy and uncomfortable, but it functions better than a biological spine in every way. A bio-gel nerve bundle runs down an articulated steel core, surrounded by a lattice-dust healing system.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>30</Steel>
@@ -94,7 +94,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicArm_Bludgeon</defName>
 		<label>crude bionic bludgeon</label>
-		<description>An advanced but crude artificial arm turned into a potent bludgeon weapon. Works much like a normal crude bionic arm, but now it's a deadly weapon.</description>
+		<description>This artificial arm has been forged into a potent bludgeon. It works much like a crude bionic arm, but now it's a deadly weapon.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>100</Steel>
@@ -116,7 +116,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicArm_Spike</defName>
 		<label>crude bionic spike</label>
-		<description>An advanced but crude artificial arm turned into a potent piercing weapon. Works much like a normal crude bionic arm, but now it's a deadly weapon.</description>
+		<description>This artificial arm has been turned into a sharp piercing weapon. It works much like a crude bionic arm, but now it's a deadly weapon.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>120</Steel>
@@ -138,7 +138,7 @@
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>QE_CrudeBionicArm_RangedWeaponPlatform</defName>
 		<label>crude bionic ranged weapon platform</label>
-		<description>An advanced but crude artificial arm turned into a platform for ranged weapons. Equipped items won't be dropped when downed. Works much like a normal crude bionic arm, but now it's a deadly weapon.</description>
+		<description>This artificial arm has been turned into a platform for ranged weapons. Equipped items won't be dropped when downed. It works much like a crude bionic arm, but now it's a deadly weapon.</description>
 		<techLevel>Spacer</techLevel>
 		<costList>
 			<Steel>50</Steel>

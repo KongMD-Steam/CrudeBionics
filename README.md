@@ -1,7 +1,7 @@
 # Crude Bionics
-Crude Bionics adds the several artificial body parts for colonists. They operate at 115% efficiency, and are meant as a way to augment colonists early without a lot of resource/time expenditure. 
+Crude Bionics adds several artificial body parts for colonists. They operate at 115% efficiency, and are meant as a way to augment colonists early with fewer resources than Bionic body parts. Each installed crude bionic will apply a -5 mood debuff to the pawn, due to the scratchy, unfinished nature of the components used to make it.
 
-I took these bionic items from the mod 'Questionable Ethics' and made them into a standalone mod to increase mod compatibility. There are no significant changes from the Questionable Ethics implementation.
+I took these bionic items from the mod 'Questionable Ethics' and made them into a standalone mod to increase mod compatibility. There are no significant changes from the crude bionics in Questionable Ethics.
 
 ## Why use Crude Bionics?
 Crude bionics can give your colonists a boost in efficiency early without a lot of resource expenditure. However, they will give your colonists a permanent -5 moodlet, because they are crude and scratchy. This mood debuff stacks when additional crude bionics are applied. Maybe you want that, with some pawns...
