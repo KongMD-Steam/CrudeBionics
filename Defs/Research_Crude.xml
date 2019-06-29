@@ -3,7 +3,7 @@
 	<ResearchProjectDef>
 		<defName>QE_CrudeBionics</defName>
 		<label>crude bionics</label>
-		<description>Create crude bionics at the machining table that work almost as well as the real thing. They require common materials like steel and industrial era components. Crude bionics irritate the skin and are not hygienic in the slightest.</description>
+		<description>Create crude bionics at the machining table that work slightly better than biological body parts. They require common materials to build, like steel and industrial era components. Crude bionics irritate the skin and are not hygienic in the slightest.</description>
 		<baseCost>2000</baseCost>
 		<techLevel>Industrial</techLevel>
 		<prerequisites>
