@@ -32,13 +32,13 @@ If you have any of these bionics in a save with Questionable Ethics enabled, the
 ## Compatibility
 This mod makes no changes to vanilla defs. Specific compatibility notes below:
 
-### Enhanced Functionality
+**Enhanced Functionality**
 * Bionic Icons - Icons from this mod will be used for the corresponding crude bionics.
 
-### Fully Compatible
+**Fully Compatible**
 * Questionable Ethics (put Crude Bionics below Questionable Ethics in mod order)
 
-### Harmony Patches
+## Harmony Patches
 * Pawn_EquipmentTracker.DropAllEquipment() Prefix
 
 ## Source code
