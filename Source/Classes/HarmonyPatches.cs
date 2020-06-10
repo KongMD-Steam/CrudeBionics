@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using Verse;
-using Harmony;
+using HarmonyLib;
 using System.Reflection;
 
 namespace CrudeBionics
@@ -12,7 +12,7 @@ namespace CrudeBionics
         static HarmonyPatches()
         {
             //Harmony
-            HarmonyInstance harmony = HarmonyInstance.Create("KongMD.CrudeBionics");
+            var harmony = new Harmony("KongMD.CrudeBionics");
 
             //Template
             /*{

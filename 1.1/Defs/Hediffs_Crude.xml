@@ -3,6 +3,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicEye</defName>
     <label>crude bionic eye</label>
+    <description>crude bionic eye</description>
     <labelNoun>a crude bionic eye</labelNoun>
     <comps>
       <li Class="CrudeBionics.HediffCompProperties_CrudeAddedPart" />
@@ -23,6 +24,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicArm</defName>
     <label>crude bionic arm</label>
+    <description>crude bionic arm</description>
     <labelNoun>a crude bionic arm</labelNoun>
     <comps>
       <li Class="HediffCompProperties_VerbGiver">
@@ -55,6 +57,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicLeg</defName>
     <label>crude bionic leg</label>
+    <description>crude bionic leg</description>
     <labelNoun>a crude bionic leg</labelNoun>
     <comps>
       <li Class="CrudeBionics.HediffCompProperties_CrudeAddedPart" />
@@ -75,6 +78,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicSpine</defName>
     <label>crude bionic spine</label>
+    <description>crude bionic spine</description>
     <labelNoun>a crude bionic spine</labelNoun>
     <comps>
       <li Class="CrudeBionics.HediffCompProperties_CrudeAddedPart" />
@@ -96,6 +100,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicArm_Bludgeon</defName>
     <label>crude bionic arm bludgeon</label>
+    <description>crude bionic arm bludgeon</description>
     <labelNoun>a crude bionic arm bludgeon</labelNoun>
     <comps>
       <li Class="HediffCompProperties_VerbGiver">
@@ -130,6 +135,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicArm_Spike</defName>
     <label>crude bionic arm spike</label>
+    <description>crude bionic arm spike</description>
     <labelNoun>a crude bionic arm spike</labelNoun>
     <comps>
       <li Class="HediffCompProperties_VerbGiver">
@@ -174,6 +180,7 @@
   <HediffDef ParentName="AddedBodyPartBase">
     <defName>QE_CrudeBionicArm_RangedWeaponPlatform</defName>
     <label>crude bionic ranged weapon platform</label>
+    <description>crude bionic ranged weapon platform</description>
     <labelNoun>a crude bionic ranged weapon platform</labelNoun>
     <comps>
       <li Class="HediffCompProperties_VerbGiver">
